@@ -1,0 +1,59 @@
+Git and GitHub:  https://youtu.be/Ez8F0nW6S-w?si=76s5dHxxDlO_AwgG
+MicroServices :  https://youtu.be/7IFJb-uLEaI?si=R3Wx0452BHSoFySj
+Javascript    :  https://youtu.be/VlPiVmYuoqw?si=467V9XpEz6gwS4gf
+MongoDB 2026  :  https://youtu.be/M1dKYQ7GsTg?si=xA8BQ9sLSAigoNyq
+Flask	      :  https://youtu.be/oA8brF3w5XQ?si=G3BfOnDlxfLg8XBy
+Flask Auth    :  https://youtu.be/nZRygaTH2MA?si=04l9n7dS3bt3aRUa
+FastApi       :  https://youtu.be/52c7Kxp_14E?si=soc1bimvAudEXD-O
+AI Agents     :  https://youtu.be/B5LZnYYoLtY?si=_EExIWeNqp6GqABo
+FullstackWebDev:  https://youtu.be/BvKxCCVNXrY?si=Rf78Y8Nlfb6L5CCA
+RAG Intro     :  https://youtu.be/Ty8gcCKuwNI?si=ZDyNyDcHOHc3gEKY
+SQL 	      :  https://youtu.be/yE6tIle64tU?si=eXgMSK-nOXhcDhut
+CI/DC Intro   :  https://youtu.be/gLptmcuCx6Q?si=MMZJKfmDpMXlmPeN
+React js      :  https://youtu.be/RGKi6LSPDLU?si=zOVkDM3xyBuzv-57
+Machine Learn :  https://youtu.be/ie4oGI85SAE?si=D2-qqOqA01nrDT4B-
+Freelancing   :  https://youtu.be/wezlUn8kVd4?si=WPr6v4tG7OGt-Ev2
+Diff AI       :  https://youtu.be/jNJH6uD5LQE?si=ph8d2PP2PMvo30ea
+AI Basics     :  https://youtu.be/D1eL1EnxXXQ?si=vtTTFwQTSuBFZL1D
+Docker	      :  https://youtu.be/exmSJpJvIPs?si=UaaHFHs6qZ-RH4Uw
+Python Framework :  https://youtu.be/DC0ZXApgheg?si=Zx8S7Vko536HIRsc
+Career in 2026:  https://youtu.be/oGdt3tzo074?si=d0MadiUcUMlYhPu_	https://youtu.be/YBB3GbluHjA?si=mvb-GDLh_GS3cxBF
+MCP Intro     :  https://youtu.be/tcdtYA0_N7w?si=cQpmk8e0PSV6FXmb
+AI ML Roadmap :  https://youtu.be/tiplN2Qc_ws?si=IpYD_nQbeKzVqU-g
+
+Phase 1 (2-3 weeks)
+Git/GitHub
+SQL
+PostgreSQL
+MongoDB
+Phase 2 (3-4 weeks)
+FastAPI
+Authentication
+Redis
+Testing (pytest)
+Phase 3 (3 weeks)
+Docker
+CI/CD
+Linux
+Nginx
+Phase 4 (4 weeks)
+AWS
+Kubernetes
+Microservices
+Kafka
+Phase 5 (4 weeks)
+RAG
+LangChain
+Vector DBs
+AI Agents
+MCP
+Phase 6 (2 weeks)
+System Design
+Interview Preparation
+Resume
+LeetCode (easy-medium)
+
+Projects
+
+Ai Powered Ecommerce Website  :  https://youtu.be/2CO8fcbQ_LQ?si=pJxZmgv1kD1BZ3EF
+Ai python projects	      :  https://youtu.be/MBGhJFTULBo?si=8O1Bw_-S7kB7-FA-
